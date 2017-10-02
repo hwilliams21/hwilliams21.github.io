@@ -1,0 +1,6 @@
+body {
+    background-image: url("file:///Users/hwilliams21/Desktop/1.jpg");
+    background-repeat: repeat;
+}
+html, body {margin: 0; height: 100%; overflow: hidden}
+
